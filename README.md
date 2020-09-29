@@ -1,2 +1,4 @@
-# WhatsUpOnlineStoreWithDock2
- WatsUpOnlineStoreWithDock v2
+# WhatsUpOnlineStoreWithDock
+ WatsUpOnlineStoreWithDock
+ 
+Mobile view dock added to the shop.
